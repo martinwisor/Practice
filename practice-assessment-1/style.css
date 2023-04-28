@@ -38,6 +38,10 @@ button{
     width: 100%;
 }
 
+#blackSection{
+    display: none;
+}
+
 @media (min-width: 800px) {
 
     body{
